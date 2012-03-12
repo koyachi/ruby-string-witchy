@@ -1,6 +1,6 @@
 # string-witchy
 
-S†RING EX†ENSION FOR WI†CHY.
+S†RING EX†ENSION FOR WI†☾HY.
 SEE ΔLSO: http://chillwitchnamemagic.com/
 
 ## Example
@@ -8,7 +8,7 @@ SEE ΔLSO: http://chillwitchnamemagic.com/
 ```ruby
 require 'string-witchy'
 'String extension for witchy'.witchy
-# => S†RING EX†ENSION FOR WI†CHY
+# => S†RING EX†ENSION FOR WI†☾HY.
 ```
 
 ## License
