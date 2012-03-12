@@ -9,6 +9,6 @@ describe String::Witchy do
   end
 
   it 'should wichied' do
-    @string.witchy.should eql('†O†ΔL COS†')
+    @string.witchy.should eql('†O†ΔL ☾OS†')
   end
 end

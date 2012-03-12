@@ -5,6 +5,7 @@ class String
   module Witchy
     @@TABLE = {
       :A => 'Δ',
+      :C => '☾',
       :T => '†',
     }
 
