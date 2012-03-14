@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = String::Witchy::VERSION
   s.authors     = ["koyachi"]
   s.email       = ["rtk2106@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/koyachi/ruby-string-witchy"
   s.summary     = %q{S†RING EX†ENSION FOR WI†CHY}
   s.description = %q{S†RING EX†ENSION FOR WI†CHY. SEE ALSO: http://chillwitchnamemagic.com/}
 
